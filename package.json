@@ -1,0 +1,10 @@
+{
+  "name": "useLastValue",
+  "version": "1.0.0",
+  "description": "A react hook for managing state's especially numeric ID's.",
+  "main": "src/hooks/useLastValue.js",
+  "repository": "https://github.com/emrebakkal/useLastValue",
+  "author": "emrebakkal",
+  "license": "MIT",
+  "private": false
+}

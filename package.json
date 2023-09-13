@@ -1,5 +1,5 @@
 {
-  "name": "useLastValue",
+  "name": "uselastvalue",
   "version": "1.0.0",
   "description": "A react hook for managing state's especially numeric ID's.",
   "main": "src/hooks/useLastValue.js",
